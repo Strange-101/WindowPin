@@ -13,3 +13,5 @@
 *.opensdf
 *.sdf
 *.vcxproj.filters
+.vscode/
+
